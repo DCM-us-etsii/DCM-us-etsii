@@ -1,2 +1,3 @@
-A student from Seville trying their hardest to not fall under the pressure.
-Most code in this account will probably be shit, if not absolutely useless.
+A student from Seville trying their hardest.
+Most code in this account will probably be exceedingly bad, if not copletely useless for
+regular people.
