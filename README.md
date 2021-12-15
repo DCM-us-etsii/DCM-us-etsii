@@ -1,3 +1,1 @@
-A student from Seville trying their hardest.
-Most code in this account will probably be exceedingly bad, if not completely useless for
-regular people.
+If you value your sanity, I suggest you don't take a look at my code
